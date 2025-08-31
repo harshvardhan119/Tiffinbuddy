@@ -1,0 +1,5 @@
+{
+  "name": "TiffinBuddy",
+  "description": "TiffinBuddy helps users discover, order, and manage homemade tiffin services. It provides a platform for customers to find meal plans, for vendors to manage their business, and for admins to oversee the platform.",
+  "requestFramePermissions": []
+}
